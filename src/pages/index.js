@@ -62,9 +62,7 @@ const IndexPage = () => (
             <div className="featured-text text-center text-lg-left">
               <h4>Shoreline</h4>
               <p className="text-black-50 mb-0">
-                Grayscale is open source and MIT licensed. This means you can
-                use it for any project - even commercial projects! Download it,
-                customize it, and publish your website!
+                Chung
               </p>
             </div>
           </div>
